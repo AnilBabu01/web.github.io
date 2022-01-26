@@ -10,6 +10,10 @@
     margin-left: 10px;
     font-weight: 500;
 }
+html
+{
+    scroll-behavior: smooth;
+}
 .navlink:hover
 {
     background-color: red;
